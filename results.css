@@ -1,0 +1,22 @@
+body{
+    background-color: #64485C;
+    background-image: url(./images/congrats.png);
+    background-repeat: no-repeat;
+    background-position: 50% -50%;
+}
+h1 {
+    font-size:3em; 
+    font-weight: 300;
+    line-height:1em;
+    text-align: center;
+    color: #4DC3FA;
+  }
+  
+  h2 {
+    font-size:2em; 
+    font-weight: 300;
+    text-align: center;
+    display: block;
+    line-height:1em;
+    color: #FB667A;
+  }
